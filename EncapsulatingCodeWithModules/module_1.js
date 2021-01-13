@@ -18,3 +18,6 @@ function multiply(a, b) {
 }
 
 export default multiply
+
+
+  // "type" : "module" --> add into package.json to allow the import
